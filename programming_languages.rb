@@ -42,4 +42,4 @@ def reformat_languages(languages)
  
 end
 
-reformat_languages()
+reformat_languages(:oo)
