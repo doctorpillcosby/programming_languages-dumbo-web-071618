@@ -1,7 +1,7 @@
 new_hash = {}
 
-def reformat_languages(languages)
- languages = {
+
+languages = {
   :oo => {
     :ruby => {
       :type => "interpreted"
@@ -32,4 +32,6 @@ def reformat_languages(languages)
  
   }
 }
+def reformat_languages(languages)
+ 
 end
